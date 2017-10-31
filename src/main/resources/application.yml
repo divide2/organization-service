@@ -11,6 +11,7 @@ security:
     resource:
       userInfoUri: http://localhost:8901/auth/user
 
+
 logging:
   level:
     com.netflix: WARN
